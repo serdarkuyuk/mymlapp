@@ -2,3 +2,5 @@ numpy
 joblib
 fastapi
 uvicorn
+pymongo
+pymongo[srv]
