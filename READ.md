@@ -1,1 +1,0 @@
-This installation executed windows windows and anaconda distribution.
